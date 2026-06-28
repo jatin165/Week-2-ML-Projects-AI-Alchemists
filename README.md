@@ -21,7 +21,7 @@ Python, NumPy, Pandas, Matplotlib, Colab, Jupyter Notebook.
 ## Screenshots
 <img width="415" height="315" alt="image" src="https://github.com/user-attachments/assets/21c930d5-8eab-4c5d-b55d-fe116d012bc1" />
 
-
+![image alt](https://github.com/jatin165/Week-2-ML-Projects-AI-Alchemists/blob/a12c46b560e9c07d2a2550199a9d9a7606013599/Screenshot%202026-06-28%20111807.png)
 
 ## How to Run the Project
 1. Clone the repository.
